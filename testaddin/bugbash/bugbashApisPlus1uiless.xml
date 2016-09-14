@@ -107,14 +107,14 @@
 
   <Resources>
     <bt:Images>
-      <bt:Image id="icon1" DefaultValue="https://kfmpchan.github.io/testaddin/icons/daniel.png" ></bt:Image>
-      <bt:Image id="icon2" DefaultValue="https://kfmpchan.github.io/testaddin/icons/owl.png" ></bt:Image>
-      <bt:Image id="icon3" DefaultValue="https://kfmpchan.github.io/testaddin/icons/kitty.png"></bt:Image>
-      <bt:Image id="icon4" DefaultValue="https://kfmpchan.github.io/testaddin/icons/prince.png" ></bt:Image>
-      <bt:Image id="icon5" DefaultValue="https://kfmpchan.github.io/testaddin/icons/trolley.png" ></bt:Image>
-      <bt:Image id="icon6" DefaultValue="https://kfmpchan.github.io/testaddin/icons/elania.png"></bt:Image>
-      <bt:Image id="icon7" DefaultValue="https://kfmpchan.github.io/testaddin/icons/batman.png" ></bt:Image>
-      <bt:Image id="icon8" DefaultValue="https://kfmpchan.github.io/testaddin/icons/superman.png"></bt:Image>
+      <bt:Image id="icon1" DefaultValue="https://kfmpchan.github.io/testaddin/bugbash/icons/daniel.png" ></bt:Image>
+      <bt:Image id="icon2" DefaultValue="https://kfmpchan.github.io/testaddin/bugbash/icons/owl.png" ></bt:Image>
+      <bt:Image id="icon3" DefaultValue="https://kfmpchan.github.io/testaddin/bugbash/icons/kitty.png"></bt:Image>
+      <bt:Image id="icon4" DefaultValue="https://kfmpchan.github.io/testaddin/bugbash/icons/prince.png" ></bt:Image>
+      <bt:Image id="icon5" DefaultValue="https://kfmpchan.github.io/testaddin/bugbash/icons/trolley.png" ></bt:Image>
+      <bt:Image id="icon6" DefaultValue="https://kfmpchan.github.io/testaddin/bugbash/icons/elania.png"></bt:Image>
+      <bt:Image id="icon7" DefaultValue="https://kfmpchan.github.io/testaddin/bugbash/icons/batman.png" ></bt:Image>
+      <bt:Image id="icon8" DefaultValue="https://kfmpchan.github.io/testaddin/bugbash/icons/superman.png"></bt:Image>
 
     </bt:Images>
     
